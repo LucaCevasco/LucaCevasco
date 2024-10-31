@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rather labs](https://www.ratherlabs.com/)
 
-- 🌱 I’m currently learning **Traditional Finance - Startup methodologies - Growth hacking**
+- 🌱 I’m currently learning **Traditional Finance - Startup methodologies - Advanced blockchain - AI**
 
 - 🤝 Previously in [Ping](https://www.letsping.com/)
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [COME SOON](COME SOON)
 
-- 💬 Ask me about **Next.js - Blockchain - End to end development design - Leadership**
+- 💬 Ask me about **Next.js - Blockchain - End to end development architecture - Leadership**
 
 - 📫 How to reach me **thelucazip@gmail.com**
 
-- ⚡ Hobbies **Coffee, sci-fi books, and music. Not too original, right?**
+- ⚡ Hobbies **coffee, sci-fi and history books, music. Not too original TBH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
