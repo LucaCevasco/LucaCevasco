@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [COME SOON](COME SOON)
 
-- 💬 Ask me about **Next.js - Blockchain - End to end development architecture - Leadership**
+- 💬 Ask me about **Next.js - Blockchain - End to end development architecture**
 
 - 📫 How to reach me **thelucazip@gmail.com**
 
